@@ -16,6 +16,7 @@ The topics below represent concepts studied and practiced throughout the learnin
 - Functions  
 - Lists and dictionaries  
 - Input and output  
+- String manipulation and formatting (f-strings)
 
 ---
 
@@ -25,7 +26,10 @@ The topics below represent concepts studied and practiced throughout the learnin
 - `temperature_converter.py` → Converts Celsius to Fahrenheit  
 - `multiplication_table.py` → Generates a multiplication table  
 - `even_or_odd.py` → Checks whether a number is even or odd  
-- `student_order.py` → Randomly shuffles a list of students using Python’s standard `random` library  
+- `student_order.py` → Randomly shuffles a list of students using Python’s standard random library  
+- `text_analyzer.py` → Analyzes a full name, displaying it in uppercase/lowercase and counting total letters.  
+- `digit_separator.py` → Separates a number into its mathematical components (units, tens, etc.) using string indexing.  
+- `name_parser.py` → Uses string splitting to extract and display the first and last name of a user.  
 
 ---
 

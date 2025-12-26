@@ -1,8 +1,8 @@
 from math import sqrt
 
-print('=' * 10 )
+print('=' * 30 )
 print('   ADVANCED CALCULATOR v1.0   ')
-print('=' * 10 )
+print('=' * 30 )
 
 print('''Available Operations:
 [ + ] Sum

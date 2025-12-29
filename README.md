@@ -8,13 +8,13 @@ The goal is to explore, practice, and gradually apply programming logic, core Py
 
 ## 📚 Topics Covered
 
-The topics below represent concepts studied and practiced throughout the learning process, not necessarily all used in every project.
+The topics below represent concepts studied and practiced throughout the learning process:
 
-- Variables and data types  
-- Conditional statements (`if`, `elif`, `else`)  
-- Functions  
-- Lists and dictionaries  
-- Input and output  
+- Variables and data types
+- Conditional statements (if, elif, else)
+- Functions
+- Lists and dictionaries
+- Input and output
 - String manipulation and formatting (f-strings)
 - Standard Libraries (random, math, time)
 
@@ -22,23 +22,32 @@ The topics below represent concepts studied and practiced throughout the learnin
 
 ## 📂 Projects
 
-- `calculator.py` → Simple terminal calculator
-- `guessing_game.py` → A Matrix-themed game where you guess a number between 0-5. Features random logic and input validation.
-- `triangle_validator_and_classifier.py` → Validates if segments form a triangle and classifies them (Equilateral, Isosceles, or Scalene) with a custom geometric UI.
-- `travel_cost.py` → Calculates ticket prices based on trip distance using conditional pricing for long and short distances.
-- `temperature_converter.py` → Converts Celsius to Fahrenheit  
-- `multiplication_table.py` → Generates a multiplication table  
-- `even_or_odd.py` → Checks whether a number is even or odd  
-- `student_order.py` → Randomly shuffles a list of students using Python’s standard random library  
-- `text_analyzer.py` → Analyzes a full name, displaying it in uppercase/lowercase and counting total letters.  
-- `digit_separator.py` → Separates a number into its mathematical components (units, tens, etc.) using string indexing.  
-- `name_parser.py` → Uses string splitting to extract and display the first and last name of a user.  
+### ⭐ Featured Projects
+- guessing_game.py → Matrix-themed number guessing game with random logic and validation.
+- triangle_validator_and_classifier.py → Validates segments and classifies triangles with custom UI.
+- calculator.py → Simple terminal calculator for basic mathematical operations.
+- text_analyzer.py → Analyzes names by changing case and counting total letters.
+
+### 🛠️ Foundational Exercises
+- travel_cost.py → Calculates ticket prices based on distance using conditional pricing.
+- temperature_converter.py → Converts Celsius to Fahrenheit using standard formulas.
+- multiplication_table.py → Generates a multiplication table for a chosen number.
+- even_or_odd.py → Basic check to determine if a number is even or odd.
+- student_order.py → Randomly shuffles a list of student names using the random library.
+- digit_separator.py → Separates numbers into mathematical units using string indexing.
+- name_parser.py → Extracts and displays first and last names via string splitting.
+
+---
+
+## 🚀 Next Steps
+
+Done with the basics? Check out my **[Python Intermediate Projects](https://github.com/LuisHenriqueCarmanhan/python-intermediate-projects)** repository for more complex logic, advanced string manipulation, and interactive AI systems like the AM Protocol.
 
 ---
 
 ## ▶️ How to Run
 
-1. Make sure Python 3.x is installed  
+1. Make sure Python 3.x is installed
 2. Clone the repository:
    ```bash
    git clone https://github.com/LuisHenriqueCarmanhan/python-beginner-projects.git
